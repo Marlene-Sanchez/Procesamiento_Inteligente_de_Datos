@@ -1,0 +1,2 @@
+# Procesamiento_Inteligente_de_Datos
+Ejercicios
