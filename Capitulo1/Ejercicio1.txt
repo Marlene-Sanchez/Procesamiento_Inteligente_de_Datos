@@ -1,0 +1,3 @@
+texto = input("Ingresa una cadena de texto: ")
+print(texto)
+print(len(texto))
