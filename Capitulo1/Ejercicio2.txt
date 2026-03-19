@@ -1,0 +1,4 @@
+nombre = input("Nombre: ")
+apellido = input("Apellido: ")
+print(f"{nombre} {apellido}")
+print(f"{nombre[0]}{apellido[0]}")

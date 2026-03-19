@@ -1,0 +1,3 @@
+n1 = int(input("Ingresa el primer número entero: "))
+n2 = int(input("Ingresa el segundo número entero: "))
+print(f"Producto: {n1 * n2}")

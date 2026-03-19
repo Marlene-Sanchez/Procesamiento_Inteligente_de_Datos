@@ -1,0 +1,4 @@
+radio = float(input("Ingresa el radio del círculo: "))
+pi = 3.14159
+area = pi * (radio ** 2)
+print(f"El área es: {area}")

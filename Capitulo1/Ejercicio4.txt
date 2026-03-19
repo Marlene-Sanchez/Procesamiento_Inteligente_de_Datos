@@ -1,0 +1,6 @@
+oracion = input("Ingresa una oración: ")
+primero = oracion[0]
+ultimo = oracion[-1]
+
+print(f"Primer carácter '{primero}' aparece: {oracion.count(primero)} veces")
+print(f"Último carácter '{ultimo}' aparece: {oracion.count(ultimo)} veces")
